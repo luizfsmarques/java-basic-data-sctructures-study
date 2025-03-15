@@ -1,4 +1,4 @@
-class bubbleSort{
+class BubbleSort{
     
     public static int [] bolha (int numeros[])
     {
